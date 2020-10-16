@@ -1,4 +1,5 @@
 [![noswpatv3](http://zoobab.wdfiles.com/local--files/start/noupcv3.jpg)](https://ffii.org/donate-now-to-save-europe-from-software-patents-says-ffii/)
+[![noswpatv3](http://zoobab.wdfiles.com/local--files/start/noupcv3.jpg)](https://ffii.org/donate-now-to-save-europe-from-software-patents-says-ffii/)
 
 <A name="toc1-3" title="CZMQ - High-level C binding for ØMQ" />
 # CZMQ - High-level C binding for ØMQ
